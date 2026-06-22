@@ -23,3 +23,4 @@ public class DeclarationApp {
         System.out.println(a);
     }
 }
+
